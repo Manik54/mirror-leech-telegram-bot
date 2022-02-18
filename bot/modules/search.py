@@ -47,7 +47,7 @@ SITES = {
     "all": "All"
 }
 
-SEARCH_LIMIT = 200
+SEARCH_LIMIT = 500
 
 
 def torser(update, context):
